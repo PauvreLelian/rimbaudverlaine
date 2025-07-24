@@ -42,7 +42,7 @@ vis.nodes$color.highlight.border <- "darkred"
 vis.links$title <- paste0(vis.links$from_name, " ", vis.links$type, " ", vis.links$to_name)
 
 visnet <- visNetwork(vis.nodes, vis.links) %>%  
-  visEdges(arrows = "to", color = list(highlight = "darkred"))
+  visEdges(arrows = "to", color = list(highlight = "darkred")) 
 
 visLayout(
   visnet,
