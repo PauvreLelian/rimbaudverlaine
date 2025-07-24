@@ -1,0 +1,37 @@
+from,to,type,weight
+s03,s04,was friend/possible lover of ,10
+s06,s03,drew portrait of ,10
+s07,s03,was friends with,10
+s03,s15,was friends with,10
+s03,s13,gave personal copy of Ubu Roi to,10
+s03,s14,gave personal copy of Ubu Roi to,10
+s01,s03,inspired,10
+s04,s15,was lover of ,10
+s05,s08,was friends with,10
+s05,s09,was friends with,10
+s05,s11,was friends with,10
+s05,s02,was friend/possible lover of ,10
+s05,s01,was friends with,10
+s01,s02,was lover of,10
+s06,s02,drew portraits of,10
+s07,s02,was friends with,10
+s07,s15,was friends with,10
+s08,s01,was friends with,10
+s08,s02,was friends with,10
+s08,s12,was friends with,10
+s11,s08,was schoolteacher of,10
+s11,s01,was schoolteacher of,10
+s09,s11,was fellow teacher but at different school to,10
+s10,s01,was friends with,10
+s10,s02,was friends with,10
+s10,s14,was friends with,10
+s11,s02,shared Rimbaud's early letters and poems with,10
+s12,s01,was lover of,10
+s12,s02,was friends with,10
+s12,s14,was friends with,10
+s12,s10,was friends with,10
+s13,s01,was inspired by/plagiarised,10
+s11,s14,lived in same Paris building as,10
+s11,s12,taught at Charleville school but at different time to,10
+s15,s02,was inspired by ,10
+s01,s14,gave personal copy of Saison en enfer to,10
