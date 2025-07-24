@@ -18,11 +18,11 @@ s07,s02,was friends with,10
 s07,s15,was friends with,10
 s08,s01,was friends with,10
 s08,s02,was friends with,10
-s08,s12,was friends with,10
+s08,s12,was friends and briefly lived with,10
 s11,s08,was schoolteacher of,10
 s11,s01,was schoolteacher of,10
 s09,s11,was fellow teacher but at different school to,10
-s10,s01,was friends with,10
+s01,s10,was friends and briefly lived with,10
 s10,s02,was friends with,10
 s10,s14,was friends with,10
 s11,s02,shared Rimbaud's early letters and poems with,10
@@ -45,3 +45,10 @@ s19,s20,was friends with,10
 s20,s15,was friends with,10
 s20,s03,was friends with,10
 s19,s03,was friends with,10
+s17,s21,was the mother of,10
+s21,s22,was friends with,10
+s01,s22,was friends and briefly lived with,10
+s22,s02,was friends with,10
+s16,s21,was the sister of,10
+s02,s21,entrusted the manuscript of Rimbaud's Illuminations to ,10
+s23,s17,was the piano teacher of,10
