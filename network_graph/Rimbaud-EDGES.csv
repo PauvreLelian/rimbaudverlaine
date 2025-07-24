@@ -35,3 +35,13 @@ s11,s14,lived in same Paris building as,10
 s11,s12,taught at Charleville school but at different time to,10
 s15,s02,was inspired by ,10
 s01,s14,gave personal copy of Saison en enfer to,10
+s16,s02,was the wife of,10
+s17,s16,was the mother of,10
+s17,s18,was the piano teacher of,10
+s18,s19,composed music for the poems of,10
+s18,s02,composed music for the poems of,10
+s19,s15,was friends with,10
+s19,s20,was friends with,10
+s20,s15,was friends with,10
+s20,s03,was friends with,10
+s19,s03,was friends with,10

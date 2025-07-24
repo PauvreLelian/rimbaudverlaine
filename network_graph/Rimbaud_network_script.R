@@ -30,7 +30,8 @@ vis.nodes$color.background <- c("gold",
                                 "seagreen", 
                                 "darkorchid", 
                                 "steelblue", 
-                                "coral")[nodes$group.type]
+                                "coral",
+                                "pink")[nodes$group.type]
 
 vis.nodes$color.border <- "black"
 vis.nodes$color.highlight.background <- "orange"
@@ -76,6 +77,5 @@ visOptions(visnet,
                                    degree=list(from=1, to=1)
                                    ) 
            )
-
 
 
