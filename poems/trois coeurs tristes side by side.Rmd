@@ -162,7 +162,7 @@ Leurs quolibets l'ont dépravé !
 
 Quand ils auront tari leurs chiques,
 Comment agir, ô cœur volé ?
-Ce seront des hoquets bachiques
+Ce seront des <span class="glow" title="`r comments[['hoquets']]`">hoquets</span> bachiques
 Quand ils auront tari leurs chiques !
 J'aurai des sursauts stomachiques
 <span class="glow" title="`r comments[['moi']]`">Moi, si mon cœur est ravalé :</span>
