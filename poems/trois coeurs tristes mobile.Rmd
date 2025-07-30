@@ -17,8 +17,7 @@ comments <- list(
   sent to Georges Izambard on the 13th of May 1871",
   pitre = "This translates to 'clown.'  This is the second version of the poem, 
   sent to Paul Demeny on the 10th of June 1871",
-  vole = "This translates to 'stolen'  This is the third version of the poem, 
-  sent to Verlaine in August/September 1871",
+  vole = "This translates to 'stolen'  This is the third version of the poem, copied out by Verlaine in autumn 1871",
   caporal = "This has a dual meaning - the military rank of corporal, but also a type of tobacco",
   couvert = "This word has been changed from 'plein' (full of caporal) to 'couvert'   (covered by caporal)",
   lave = "This word has been changed from 'sauvé' (save) to 'lavé' (wash) - the narrator is now calling for the waves to take his heart and wash it, rather than save it.",
@@ -31,7 +30,8 @@ gouvernail = "'gouvernail' can mean the helm or rudder of a ship.  The frescoes 
 quolibets = "'The word 'insultes' (insults) has now changed to 'quolibets' (jeers).",
 bachiques = "'comes from 'Bacchic', or  Dionysian, related to Bacchus.",
 hoquets = "'refrains' (choruses/songs) has now changed to 'hoquets' (hiccups), suggesting nausea or retching.",
-moi = "The changed grammar of this line makes it more visceral, evoking the sensation of the heart being choked up and then swallowed back down."
+moi = "The changed grammar of this line makes it more visceral, evoking the sensation of the heart being choked up and then swallowed back down.",
+mai = "This version of the poem is one copied out by Verlaine - we know that Rimbaud did not meet Verlaine until autumn of 1871, but the manuscript is dated May.  This may reflect Rimbaud's habit of dating his poems to when they were originally composed, not necessarily when they were copied out."
 )
 ```
 
@@ -153,7 +153,7 @@ Quand ils auront tari leurs chiques,
 Comment agir, ô cœur volé ? 
 
 A.R.
-?Sep 1871</pre>
+`r glowTogglePre("Mai 1871", comments[['mai']])`</pre>
 
 <p style="font-size:0.9em; color:gray;">
 from A. Bardel <a href="http://abardel.free.fr/tout_rimbaud/dossier_verlaine_1871.htm#le_coeur_vole">here</a>
