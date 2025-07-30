@@ -1,0 +1,164 @@
+---
+title: "Trois cœurs tristes: a side-by-side comparison"
+output: html_document
+---
+
+<!-- Load external CSS and JS -->
+<link rel="stylesheet" href="glow.css">
+<script src="glow.js"></script>
+
+```{r echo=FALSE}
+
+source("utils.r")
+
+# list of comments
+comments <- list(
+  supplicie = "This translates to 'tortured.'  This is the first version of the poem, 
+  sent to Georges Izambard on the 13th of May 1871",
+  pitre = "This translates to 'clown.'  This is the second version of the poem, 
+  sent to Paul Demeny on the 10th of June 1871",
+  vole = "This translates to 'stolen'  This is the third version of the poem, 
+  sent to Verlaine in August/September 1871",
+  caporal = "This has a dual meaning - the military rank of corporal, but also a type of tobacco",
+  couvert = "This word has been changed from 'plein' (full of caporal) to 'couvert'   (covered by caporal)",
+  lave = "This word has been changed from 'sauvé' (save) to 'lavé' (wash) - the narrator is now calling for the waves to take his heart and wash it, rather than save it.",
+  colon = "The main differences between Le Cœur supplicié and Le Cœur du pitre are in the punctuation used in the line endings.",
+  pousse = "The word has now changed from 'lance' to 'pousse' - the difference is subtle, but the laughter now feels wilder or more primal than before.",
+  ithyphalliques = "This is derived from 'ithyphallic', an Ancient Greek word meaning 'with an erect penis'.",
+  pioupiesques = "This is a neologism by Rimbaud, but would have been understood as 'soldierly'.",
+abracadabrantesques = "Another neologism, from 'abracadabra' and suggesting magic or enchantment.",
+gouvernail = "'gouvernail' can mean the helm or rudder of a ship.  The frescoes are now no longer created 'À la vesprée' (at vespers/in the evening time), but instead seen at the helm.",
+quolibets = "'The word 'insultes' (insults) has now changed to 'quolibets' (jeers).",
+bachiques = "'comes from 'Bacchic', or  Dionysian, related to Bacchus.",
+hoquets = "'refrains' (choruses/songs) has now changed to 'hoquets' (hiccups), suggesting nausea or retching.",
+moi = "The changed grammar of this line makes it more visceral, evoking the sensation of the heart being choked up and then swallowed back down."
+)
+```
+
+
+:::: {style="display: flex;"}
+
+::: {}
+**Le Cœur `r glowTogglePre("supplicié", comments[['supplicie']])`**
+
+<pre class="poem">
+Mon triste cœur bave à la poupe ...
+Mon cœur est plein de `r glowTogglePre("caporal!", comments[['caporal']])`
+Ils y lancent des jets de soupe,
+Mon triste cœur bave à la poupe...
+Sous les quolibets de la troupe
+Qui lance un rire général,
+Mon triste cœur bave à la poupe,
+Mon cœur est plein de caporal!
+
+`r glowTogglePre("Ithyphalliques", comments[['ithyphalliques']])` et `r glowTogglePre("pioupiesques", comments[['pioupiesques']])`
+Leurs insultes l'ont dépravé;
+À la vesprée, ils font des fresques
+Ithyphalliques et pioupiesques;
+Ô flots `r glowTogglePre("abracadabrantesques", comments[['abracadabrantesques']])`,
+Prenez mon cœur, qu'il soit sauvé!
+Ithyphalliques et pioupiesques,
+Leurs insultes l'ont dépravé.
+
+Quand ils auront tari leurs chiques,
+Comment agir, ô cœur volé?
+Ce seront des refrains `r glowTogglePre("bachiques", comments[['bachiques']])`
+Quand ils auront tari leurs chiques!
+J'aurai des sursauts stomachiques
+Si mon cœur triste est ravalé!
+Quand ils auront tari leurs chiques,
+Comment agir, ô cœur volé?
+
+A.R.
+Mai 1871
+</pre>
+
+<p style="font-size:0.9em; color:gray;">
+from A. Bardel <a href="http://abardel.free.fr/petite_anthologie/le_coeur.htm">here</a>
+</p>
+
+:::
+
+::: {}
+
+**Le Cœur du `r glowTogglePre("pitre", comments[['pitre']])`**
+
+<pre class="poem">
+Mon triste cœur bave à la poupe,
+Mon cœur est plein de caporal `r glowTogglePre(":", comments[['colon']])`
+Ils y lancent des jets de soupe,
+Mon triste cœur bave à la poupe :
+Sous les quolibets de la troupe
+Qui `r glowTogglePre("pousse", comments[['pousse']])` un rire général,
+Mon triste cœur bave à la poupe,
+Mon cœur est plein de caporal !
+ 
+Ithyphalliques et pioupiesques
+Leurs insultes l'ont dépravé !
+À la vesprée, ils font des fresques
+Ithyphalliques et pioupiesques.
+Ô flots abracadabrantesques,
+Prenez mon cœur, qu'il soit sauvé :
+Ithyphalliques et pioupiesques
+Leurs insultes l'ont dépravé !
+ 
+Quand ils auront tari leurs chiques,
+Comment agir, ô cœur volé ?
+Ce seront des refrains bachiques
+Quand ils auront tari leurs chiques :
+J'aurai des sursauts stomachiques,
+Si mon cœur triste est ravalé :
+Quand ils auront tari leurs chiques
+Comment agir, ô cœur volé ?
+
+A.R.
+Juin 1871</pre>
+
+<p style="font-size:0.9em; color:gray;">
+from A. Bardel <a href="http://abardel.free.fr/tout_rimbaud/archives_demeny_1871.htm#10juin">here</a>
+</p>
+
+
+:::
+
+::: {}
+**Le Cœur `r glowTogglePre("volé", comments[['vole']])`**
+
+<pre class="poem">
+Mon triste cœur bave à la poupe,
+Mon cœur `r glowTogglePre("couvert", comments[['couvert']])` de caporal!
+Ils y lancent des jets de soupe,
+Mon triste cœur bave à la poupe :
+Sous les quolibets de la troupe
+Qui pousse un rire général,
+Mon triste cœur bave à la poupe,
+Mon cœur couvert de caporal !
+
+Ithyphalliques et pioupiesques
+Leurs `r glowTogglePre("quolibets", comments[['quolibets']])` l'ont dépravé !
+Au `r glowTogglePre("gouvernail", comments[['gouvernail']])` des fresques
+Ithyphalliques et pioupiesques ;
+Ô flots abracadabrantesques,
+Prenez mon cœur, qu'il soit `r glowTogglePre("lavé", comments[['lave']])`
+Ithyphalliques et pioupiesques,
+Leurs quolibets l'ont dépravé !
+
+Quand ils auront tari leurs chiques,
+Comment agir, ô cœur volé ?
+Ce seront des `r glowTogglePre("hoquets", comments[['hoquets']])` bachiques
+Quand ils auront tari leurs chiques !
+J'aurai des sursauts stomachiques
+`r glowTogglePre("Moi", comments[['moi']])`
+Quand ils auront tari leurs chiques,
+Comment agir, ô cœur volé ? 
+
+A.R.
+?Sep 1871</pre>
+
+<p style="font-size:0.9em; color:gray;">
+from A. Bardel <a href="http://abardel.free.fr/tout_rimbaud/dossier_verlaine_1871.htm#le_coeur_vole">here</a>
+</p>
+
+:::
+
+::::
