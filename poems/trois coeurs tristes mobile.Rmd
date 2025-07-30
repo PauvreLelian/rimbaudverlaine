@@ -148,7 +148,7 @@ Comment agir, ô cœur volé ?
 Ce seront des `r glowTogglePre("hoquets", comments[['hoquets']])` bachiques
 Quand ils auront tari leurs chiques !
 J'aurai des sursauts stomachiques
-`r glowTogglePre("Moi", comments[['moi']])`
+`r glowTogglePre("Moi, si mon cœur est ravalé :", comments[['moi']])`
 Quand ils auront tari leurs chiques,
 Comment agir, ô cœur volé ? 
 
