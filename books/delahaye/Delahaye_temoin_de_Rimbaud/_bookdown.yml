@@ -1,0 +1,8 @@
+book_filename: "DELAHAYE TÉMOIN DE RIMBAUD"
+language:
+  ui:
+    chapter_name: "Page "
+rmd_files:
+  - index.Rmd
+  - 01-introduction.Rmd
+  - 02-biography-delahaye.Rmd

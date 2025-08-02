@@ -1,0 +1,53 @@
+---
+title: "DELAHAYE TÉMOIN DE RIMBAUD"
+output: html_document
+
+---
+
+
+
+# Introduction
+
+
+---
+
+
+<!-- Page 1 -->
+
+<pre>Digitized by the Internet Archive in 2019 with funding from Kahle/Austin Foundation
+
+https://archive.org/details/delahayetemoindeOOOOdela
+
+DELAHAYE TÉMOIN DE RIMBAUD
+
+Textes réunis et commentés — avec des inédits — par Frédéric Eigeldinger et André Gendre
+
+LANGAGES
+
+A LA BACONNIÈRE-NEUCHATEL
+
+Cet ouvrage a été publié grâce aux bienveillants appuis suivants :
+Fondation de l’Exposition nationale suisse, Zürich 1939, pour l’art et la recherche scientifique Fondation Ulrico Hoepli, Zürich Etat de Neuchâtel
+
+1974 by les Editions de la Baconnière à Neuchâtel (Suisse)
+
+</pre>
+
+---
+
+<!-- Page 7 -->
+
+<pre>
+
+TABLE DES ABRÉVIATIONS^[Pour ces ouvrages, voir notre bibliographie.]
+
+ALR   H. Matarasso et P. Petitfils, Album Rimbaud.
+AR    Arthur RimbaudI, sous la direction de L. Forestier.
+ARVO  D. A. de Graaf, Arthur Rimbaud, sa vie, son oeuvre.
+</pre.
+
+
+
+
+
+---
