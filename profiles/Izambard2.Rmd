@@ -29,7 +29,7 @@ Part 3 will address how Izambard contributed to Rimbaud’s literary legacy and 
 Although most of the factual information contained in this post can be found in the English language biographies of Rimbaud by people like Graham Robb, Edmund White and Charles Nicholl, I find that most of the biographers tend to take the facts from Izambard’s book while neglecting the emotional aspects of Izambard’s perspective.  This is a pity, as Izambard has a sharp, decisive and humorous voice of his own, and he writes about his former student with affection but admirable clear-headedness – despite coming in for a lot of mudslinging from Rimbaud’s family, as we shall see in part 3.
 
 
-# Part 1
+# Part One
 
 ## First Impressions
 
@@ -78,7 +78,7 @@ Then, at the end of the school year in August 1870, Izambard left Charleville fo
 >P.S. — Soon, revelations about the life I’m going to lead after the holidays...”
 
 
-This is a translation of the letter, but there is something very significant in the original Frech text which doesn’t really come through in the English^[please read [this post](https://www.reddit.com/r/RimbaudVerlaine/comments/1m1hlf2/verlaine_dans_la_grotte_1869/) for a thorough explanation of what the “terrible tigress” might actually mean.]
+This is a translation of the letter, but there is something very significant in the original French text which doesn’t really come through in the English^[please read [this post](https://www.reddit.com/r/RimbaudVerlaine/comments/1m1hlf2/verlaine_dans_la_grotte_1869/) for a thorough explanation of what the “terrible tigress” might actually mean.]
 
 
 It is striking that Rimbaud homed in on and underscored Verlaine’s hidden, homoerotic pun, and was eager to test Izambard with it, to see if he was able to pick up on its underlying meaning too.  While Izambard undoubtedly did pick up on the line’s metric oddity, it’s unclear if he ever fully grasped what Rimbaud was pointing out to him – as we shall see later in part 3 of this series.  It’s also unclear if Izambard picked up on the meaning of Rimbaud’s cryptic post-script, or its ominously trailing ellipses...
@@ -162,7 +162,7 @@ Reflecting on this letter years later, Izambard had this to say:
 And if the story had all ended there, it would have just been a slightly sad, but ultimately heart-warming account of how an enthusiastic teacher helped a troubled but brilliant teenager to develop his full potential.  But of course, it didn’t end there.
 
 
-# Part 2 
+# Part Two 
 
 ```{r izambard_drawing, echo=FALSE, fig.margin=TRUE, fig.cap="A picture of Izambard displayed in the Rimbaud museum at Charleville", out.width="100%"}
 knitr::include_graphics("Izambard picture 2.jpeg")
@@ -224,7 +224,7 @@ Meanwhile, Thiers and his ministers had regrouped in Versailles, where they plan
 
 While it is not clear to what extent Rimbaud was directly involved in the Commune, several of his friends claim that he was present in Paris during its early stages^[see [this post](https://www.reddit.com/r/RimbaudVerlaine/comments/1m5ncqm/the_runaway_poet/)]  We do know for sure that Rimbaud was back in Charleville right before bloody week, and we also know that he was electrified by the ideals of the Commune, and the possibilities that it represented to him.  
 
-We know these things because of a very important letter that he sent to Izambard, immediately before the *Semaine sanglante*.
+We know both these things because of a very important letter that he sent to Izambard, immediately before the *Semaine sanglante*.
 
 ## Background on the Letter of the Seer
 
@@ -307,10 +307,32 @@ How will I act, O stolen heart?</pre>
 
 >Arth. Rimbaud
 
+
+# Part Three
+
+## Izambard's Initial Response
+
+`r newthought("When Izambard first")` wrote down his recollections of the "Letter of the Seer" and *Le Cœur supplicié* year's later^[in a July 1898 article for *La Liberté*], he could only recall the poem itself, and the vague sentiment of the letter - but nothing specific.  He assumed that the actual letter itself was long gone.
+
+Looking back, Izambard recalled that his response to the poem was playful.  He also offered up a poem of his own in response, utilising the same 'triolet' form as *Le Cœur supplicié*.  This poem, *La Muse des méphitiques*, is a pastiche of Rimbaud's original, addressed to the "mephitic muse" (AKA the spirit of the fart), and containing deliberately absurd and grotesque imagery of lepers and molluscs:
+
+```{r mephitique, echo=FALSE, fig.margin=TRUE, fig.cap="La Muse des méphitiques by Georges Izambard", out.width="100%"}
+knitr::include_graphics("la muse de mephitiques.jpg")
+```
+
+>"“You see, it’s very simple,” I added. “You take the most incoherent thoughts, the most mismatched words, pair them up however you can, and from that crossing, prematurely born, comes a delightful little fetus which you carefully seal in a labeled jar... And beware, with your theory of the voyant, of ending up yourself in a jar—a specimen in the museum...”"
+
+Izambard did admit that perhaps he had been too quick to dismiss *Le Cœur supplicié* as a mere provocation, designed to shock, and that he may have overlooked the poetic and emotional sophistication that lay beneath the challenging imagery.  However, this was an admission that he later came to regret, as it was used against him by an unexpected enemy.
+
+## Paterne Berrichon
+
+Paterne Berrichon was the pseudonym of Pierre-Eugène Dufour^[Izambard later pointed out the irony in Berrichon's name change, quoting this passage from *Une Saison en Enfer*:
+*“You see that elegant young man, entering the beautiful and quiet house: he’s called Duval, Dufour, Armand, Maurice, who knows?  A woman devoted herself to loving that wretched fool: she died, she’s surely a saint in heaven now...”*]
+
+He was an early fan of Rimbaud's and one of his first biographers.  You could perhaps even say that he was a super-fan, since he went to quite extreme lengths to try and crack the secrets of Rimbaud's life and poetry.  It is ironic then, that he ultimately ended up perpetuating some of the biggest and most enduring myths and distortions about the poet - some of which endure even to this day.
+
 ## To Be Continued in Part 3
 
 `r newthought("Part 3 will cover")` Izambard's interpretation of what this letter means, the parody poem Izambard sent in reply, the subsequent cooling of their correspondence, and the increasingly bitter feud between Izambard and Rimbaud’s family - which reveals as much about the posthumous construction of Rimbaud’s image as it does about the poet himself.
-
-
 
 
