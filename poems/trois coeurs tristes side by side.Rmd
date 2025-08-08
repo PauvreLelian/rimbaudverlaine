@@ -1,0 +1,181 @@
+---
+title: "Trois cœurs tristes: a side-by-side comparison"
+output: html_document
+---
+
+```{r echo=FALSE}
+# In an R code chunk
+comments <- list(
+  supplicie = "This translates to 'tortured.'  This is the first version of the poem, 
+  sent to Georges Izambard on the 13th of May 1871",
+  pitre = "This translates to 'clown.'  This is the second version of the poem, 
+  sent to Paul Demeny on the 10th of June 1871",
+  vole = "This translates to 'stolen'  This is the third version of the poem, 
+  sent to Verlaine in August/September 1871",
+  couvert = "This word has been changed from 'plein' (full of caporal) to 'couvert'   (covered by caporal).  In French, as in English, 'to cover someone' can have a sexual meaning.",
+  lave = "This word has been changed from 'sauvé' (save) to 'lavé' (wash) - the narrator is now calling for the waves to take his heart and wash it, rather than save it.",
+  colon = "The main differences between Le Cœur supplicié and Le Cœur du pitre are in the punctuation used in the line endings.",
+  pousse = "The word has now changed from 'lance' to 'pousse' - the difference is subtle, but the laughter now feels wilder or more primal than before.",
+  ithyphalliques = "This is derived from 'ithyphallic', an Ancient Greek word meaning 'with an erect penis'.",
+  pioupiesques = "This is a neologism by Rimbaud, but would have been understood as 'soldierly'.",
+abracadabrantesques = "Another neologism, from 'abracadabra' and suggesting magic or enchantment.",
+gouvernail = "'gouvernail' can mean the helm or rudder of a ship.  The frescoes are now no longer created 'À la vesprée' (at vespers/in the evening time), but instead seen at the helm.",
+quolibets = "'The word 'insultes' (insults) has now changed to 'quolibets' (jeers).",
+bachiques = "'comes from 'Bacchic', or  Dionysian, related to Bacchus.",
+hoquets = "'refrains' (choruses/songs) has now changed to 'hoquets' (hiccups), suggesting nausea or retching.",
+moi = "The changed grammar of this line makes it more visceral, evoking the sensation of the heart being choked up and then swallowed back down."
+)
+```
+
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+
+body {
+  font-family: 'EB Garamond', serif;
+}
+
+.poem {
+  font-family: inherit;
+  font-size: 1.1em;
+  line-height: 1.5;
+  background-color: inherit;
+  white-space: pre-wrap;
+}
+
+.glow {
+  background-color: #ffe4e1;
+  padding: 0.1em;
+  border-radius: 3px;
+}
+
+</style>
+
+
+
+:::: {style="display: flex;"}
+
+::: {}
+**Le Cœur <span class="glow" title="`r comments[['supplicie']]`">supplicié</span>**
+
+<pre class="poem">
+Mon triste cœur bave à la poupe ...
+Mon cœur est plein de caporal!
+Ils y lancent des jets de soupe,
+Mon triste cœur bave à la poupe...
+Sous les quolibets de la troupe
+Qui lance un rire général,
+Mon triste cœur bave à la poupe,
+Mon cœur est plein de caporal!
+
+<span class="glow" title="`r comments[['ithyphalliques']]`">Ithyphalliques</span> et <span class="glow" title="`r comments[['pioupiesques']]`">pioupiesques</span>
+Leurs insultes l'ont dépravé;
+À la vesprée, ils font des fresques
+Ithyphalliques et pioupiesques;
+Ô flots <span class="glow" title="`r comments[['abracadabrantesques']]`">abracadabrantesques</span>,
+Prenez mon cœur, qu'il soit sauvé!
+Ithyphalliques et pioupiesques,
+Leurs insultes l'ont dépravé.
+
+Quand ils auront tari leurs chiques,
+Comment agir, ô cœur volé?
+Ce seront des refrains <span class="glow" title="`r comments[['bachiques']]`">bachiques</span>
+Quand ils auront tari leurs chiques!
+J'aurai des sursauts stomachiques
+Si mon cœur triste est ravalé!
+Quand ils auront tari leurs chiques,
+Comment agir, ô cœur volé?
+
+A.R.
+Mai 1871
+</pre>
+
+<p style="font-size:0.9em; color:gray;">
+from A. Bardel <a href="http://abardel.free.fr/petite_anthologie/le_coeur.htm">here</a>
+</p>
+
+:::
+
+::: {}
+
+**Le Cœur du <span class="glow" title="`r comments[['pitre']]`">pitre</span>**
+
+<pre class="poem">
+Mon triste cœur bave à la poupe,
+Mon cœur est plein de caporal <span class="glow" title="`r comments[['colon']]`">:</span>
+Ils y lancent des jets de soupe,
+Mon triste cœur bave à la poupe :
+Sous les quolibets de la troupe
+Qui <span class="glow" title="`r comments[['pousse']]`">pousse</span> un rire général,
+Mon triste cœur bave à la poupe,
+Mon cœur est plein de caporal !
+ 
+Ithyphalliques et pioupiesques
+Leurs insultes l'ont dépravé !
+À la vesprée, ils font des fresques
+Ithyphalliques et pioupiesques.
+Ô flots abracadabrantesques,
+Prenez mon cœur, qu'il soit sauvé :
+Ithyphalliques et pioupiesques
+Leurs insultes l'ont dépravé !
+ 
+Quand ils auront tari leurs chiques,
+Comment agir, ô cœur volé ?
+Ce seront des refrains bachiques
+Quand ils auront tari leurs chiques :
+J'aurai des sursauts stomachiques,
+Si mon cœur triste est ravalé :
+Quand ils auront tari leurs chiques
+Comment agir, ô cœur volé ?
+
+A.R.
+Juin 1871</pre>
+
+<p style="font-size:0.9em; color:gray;">
+from A. Bardel <a href="http://abardel.free.fr/tout_rimbaud/archives_demeny_1871.htm#10juin">here</a>
+</p>
+
+
+:::
+
+::: {}
+**Le Cœur <span class="glow" title="`r comments[['vole']]`">volé</span>**
+
+<pre class="poem">
+Mon triste cœur bave à la poupe,
+Mon cœur <span class="glow" title="`r comments[['couvert']]`">couvert</span> de caporal!
+Ils y lancent des jets de soupe,
+Mon triste cœur bave à la poupe :
+Sous les quolibets de la troupe
+Qui pousse un rire général,
+Mon triste cœur bave à la poupe,
+Mon cœur couvert de caporal !
+
+Ithyphalliques et pioupiesques
+Leurs <span class="glow" title="`r comments[['quolibets']]`">quolibets</span> l'ont dépravé !
+Au <span class="glow" title="`r comments[['gouvernail']]`">gouvernail on voit</span> des fresques
+Ithyphalliques et pioupiesques ;
+Ô flots abracadabrantesques,
+Prenez mon cœur, qu'il soit <span class="glow" title="`r comments[['lave']]`">lavé</span>
+Ithyphalliques et pioupiesques,
+Leurs quolibets l'ont dépravé !
+
+Quand ils auront tari leurs chiques,
+Comment agir, ô cœur volé ?
+Ce seront des <span class="glow" title="`r comments[['hoquets']]`">hoquets</span> bachiques
+Quand ils auront tari leurs chiques !
+J'aurai des sursauts stomachiques
+<span class="glow" title="`r comments[['moi']]`">Moi, si mon cœur est ravalé :</span>
+Quand ils auront tari leurs chiques,
+Comment agir, ô cœur volé ? 
+
+A.R.
+?Sep 1871</pre>
+
+<p style="font-size:0.9em; color:gray;">
+from A. Bardel <a href="http://abardel.free.fr/tout_rimbaud/dossier_verlaine_1871.htm#le_coeur_vole">here</a>
+</p>
+
+:::
+
+::::

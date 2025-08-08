@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+
+body {
+  font-family: 'EB Garamond', serif;
+}
+
+.poem {
+  font-family: inherit;
+  font-size: 1.1em;
+  line-height: 1.5;
+  background-color: inherit;
+  white-space: pre-wrap;
+}
+
+/* Style for normal glow/toggle */
+.glow {
+  background-color: #ffe4e1;
+  padding: 0.2em 0.4em;
+  border-radius: 3px;
+  cursor: pointer;
+  display: inline-block;
+}
+
+/* Version for use in pre-formatted text blocks */
+.glow-pre {
+  background-color: #ffe4e1;
+  border-radius: 2px;
+  display: inline;
+  padding: 0;
+}
+
+/* Hidden/reveal content */
+.hidden-text {
+  display: none;
+  opacity: 0;
+  transition: opacity 0.4s ease;
+  font-style: italic;
+  word-break: normal;         /* default: try to avoid breaking mid-word */
+  overflow-wrap: break-word;  /* allow breaks *between* words if needed */
+  white-space: normal;        /* wrap normally like paragraph text */
+}
+
+.glow span.show,
+.glow-pre span.show {
+  display: inline;
+  opacity: 1;
+}

@@ -1,0 +1,2 @@
+# build.R
+bookdown::render_book("index.Rmd", "bookdown::gitbook")

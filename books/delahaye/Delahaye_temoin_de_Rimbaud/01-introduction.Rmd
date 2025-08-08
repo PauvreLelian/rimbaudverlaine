@@ -1,0 +1,65 @@
+---
+title: "DELAHAYE TÉMOIN DE RIMBAUD"
+output: html_document
+
+---
+
+
+
+# Acknowledgments
+
+
+---
+
+
+<!-- Page 1 -->
+
+<pre style="font-family: inherit;">
+Digitized by the Internet Archive in 2019 with funding from Kahle/Austin Foundation
+
+https://archive.org/details/delahayetemoindeOOOOdela
+
+DELAHAYE TÉMOIN DE RIMBAUD
+
+Textes réunis et commentés — avec des inédits — par Frédéric Eigeldinger et André Gendre
+
+LANGAGES
+
+A LA BACONNIÈRE-NEUCHATEL
+
+Cet ouvrage a été publié grâce aux bienveillants appuis suivants :
+Fondation de l’Exposition nationale suisse, Zürich 1939, pour l’art et la recherche scientifique Fondation Ulrico Hoepli, Zürich Etat de Neuchâtel
+
+1974 by les Editions de la Baconnière à Neuchâtel (Suisse)
+
+</pre>
+
+---
+
+<!-- Page 7 -->
+
+# TABLE DES ABRÉVIATIONS^[Pour ces ouvrages, voir notre bibliographie.]
+
+<pre style="font-family: inherit;">
+ALR           H. Matarasso et P. Petitfils, Album Rimbaud.
+AR            Arthur RimbaudI, sous la direction de L. Forestier.
+ARVO          D. A. de Graaf, Arthur Rimbaud, sa vie, son oeuvre.
+ATR           J. Chauvel, L’Aventure terrestre de Jean Arthur Rimbaud.
+Cat. Charl.   Catalogue de la Bibliothèque municipale de Charleville-Mézières. (On peut               se référer à Arthur Rimbaud dans les collections municipales de la                      bibliothèque et du musée. Voir notre bibliographie.) 
+Doucet        Manuscrit conservé à la Bibliothèque littéraire Jacques Doucet (Paris); la               cote mentionnée est celle de la bibliothèque.
+ER I, II, III Etudes rimbaldiennes I, II, III, sous la direction de P. Petitfils.
+GOD I, II     Colonel Godchot, Arthur Rimbaud I, II.
+ILL           E. Delahaye, Les « Illuminations » et « Une Sai¬ son en Enfer » de                      Rimbaud.
+IzR           G. Izambard, Rimbaud tel que je l’ai connu.
+JARP          P. Berrichon, Jean-Arthur Rimbaud. Le Poète.
+LVL           J.-M. Carré, Lettres de la vie littéraire d’Arthur Rimbaud.
+MC            Manuscrit Delahaye-Cazals conservé à la Biblio¬ thèque Doucet.
+MRA           Etiemble, Le Mythe de Rimbaud. L’Année du centenaire.
+MRG           Etiemble, Le Mythe de Rimbaud. Genèse du mythe.
+
+</pre.
+
+---
+
+
+<!-- Page 7 -->
