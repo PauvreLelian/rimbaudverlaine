@@ -24,7 +24,7 @@ Part 1 covers Izambard’s arrival in Charleville, his influence on Rimbaud’s 
 
 Part 2 covers what happened to Rimbaud in the months following Izambard’s departure, the correspondence between them during that time, the bombshell “seer” letter that Rimbaud sent to Izambard, and the end of their friendship.
 
-Part 3 will address how Izambard contributed to Rimbaud’s literary legacy and how he helped to shape the image of Rimbaud that emerged in public consciousness – and how Izambard eventually emerged as probably one of the most grounded, balanced and honest of Rimbaud’s early biographers.  Throughout this post I’ll be quoting from *Rimbaud tel que je lai connu*^["The Rimbaud that I Knew", a 1947 collection of Izambard's writings about Rimbaud], as well as *Delahaye témoin de Rimbaud*^[a 1974 collection of Ernest Delahaye's writings, with commentary by Frédéric Eigeldinger et André Gendre] 
+Part 3 will address how Izambard contributed to Rimbaud’s literary legacy and how he helped to shape the image of Rimbaud that emerged in public consciousness – and how Izambard eventually emerged as probably one of the most grounded, balanced and honest of Rimbaud’s early biographers.  Throughout this post I’ll be quoting from *Rimbaud tel que je l'ai connu*^["The Rimbaud that I Knew", a 1947 collection of Izambard's writings about Rimbaud], as well as *Delahaye témoin de Rimbaud*^[a 1974 collection of Ernest Delahaye's writings, with commentary by Frédéric Eigeldinger et André Gendre] 
 
 Although most of the factual information contained in this post can be found in the English language biographies of Rimbaud by people like Graham Robb, Edmund White and Charles Nicholl, I find that most of the biographers tend to take the facts from Izambard’s book while neglecting the emotional aspects of Izambard’s perspective.  This is a pity, as Izambard has a sharp, decisive and humorous voice of his own, and he writes about his former student with affection but admirable clear-headedness – despite coming in for a lot of mudslinging from Rimbaud’s family, as we shall see in part 3.
 
@@ -320,9 +320,9 @@ Looking back, Izambard recalled that his response to the poem was playful.  He a
 knitr::include_graphics("la muse de mephitiques.jpg")
 ```
 
->"“You see, it’s very simple,” I added. “You take the most incoherent thoughts, the most mismatched words, pair them up however you can, and from that crossing, prematurely born, comes a delightful little fetus which you carefully seal in a labeled jar... And beware, with your theory of the voyant, of ending up yourself in a jar—a specimen in the museum...”"
+>"You see, it’s very simple,” I added. “You take the most incoherent thoughts, the most mismatched words, pair them up however you can, and from that crossing, prematurely born, comes a delightful little fetus which you carefully seal in a labeled jar... And beware, with your theory of the voyant, of ending up yourself in a jar—a specimen in the museum...”
 
-Izambard did admit that perhaps he had been too quick to dismiss *Le Cœur supplicié* as a mere provocation, designed to shock, and that he may have overlooked the poetic and emotional sophistication that lay beneath the challenging imagery.  However, this was an admission that he later came to regret, as it was used against him by an unexpected enemy.
+Izambard did also admit that perhaps he had been too quick to dismiss *Le Cœur supplicié* as a mere provocation, designed to shock, and that he may have overlooked the poetic and emotional sophistication that lay beneath the challenging imagery.  However, this was an admission that he later came to regret, as it was used against him by an unexpected enemy.
 
 ## Paterne Berrichon
 
@@ -345,11 +345,13 @@ As part of his investigations into Rimbaud's life, Berrichon (or Dufour)^[Izamba
 
 Isablle Rimbaud is a complicated character.^[see [this post](https://www.reddit.com/r/ArthurRimbaud/comments/1lxy4jn/portrait_isabelle_rimbaud/) for more on Isabelle]  she and her sister Vitalie were two of the only people for whom Rimbaud seems to have held a simple and lifelong affection, and, in her turn, it is clear from Isabelle's writing and actions that she loved her brother.
 
-However, Isabelle also possessed an implacably stubborn will^[she seems to have had this in common with her mother Vitalie, and her brother Arthur] and an extreme rigidity of thinking.  When she had been caring for her dying brother in hospital she hadn't known that he had ever been a writer.  However, within days of his death, a collection of his writing named *Reliquaire, Poésies* was released.  This was simply unfortunate timing rather than planned to coincide with his death, but to make matters worse the first release of *Reliquaire* included a preface filled with shocking details about her brother's life.^[copies of this first release of *Reliquaire* were later seized by police and suppressed.  This was after Darzens, a journalist and investigator, complained about the preface being falsely attributed to him.  Darzens claimed that he had not written the preface, but that it had plagiarised and paraphrased his notes]  
+However, Isabelle also possessed an implacably stubborn will^[she seems to have had this in common with her mother Vitalie, and her brother Arthur].  When she had been caring for her dying brother in hospital she hadn't even known that he had ever been a writer.  However, within mere days of his death, a collection of his writing named *Reliquaire, Poésies* was released.  This was simply unfortunate timing rather than anything planned, but to make matters worse the first release of *Reliquaire* included a preface filled with shocking details about her brother's life.^[copies of this first release of *Reliquaire* were later seized by police and suppressed.  This was after Darzens, a journalist and investigator, complained about the preface being falsely attributed to him.  Darzens claimed that he had not written the preface, but that someone else had paraphrased his notes and then misused his name as the author of the finished piece.]  
 
-Isabelle and her mother were furious - and perhaps with good reason.  To them it might have seemed that the publishers of *Reliquaire* were ghoulishly capitalising on Rimbaud's death, and libeling a man who could no longer fight back.  Isabelle made it her mission to clear her brother's name.  However, as she progressed with this, it must have eventually become clear even to her that many of the awful things people were saying about Arthur Rimbaud, were, unfortunately, true.  Nonetheless, Isabelle stayed steadfast in her goal.  She was going to defend her brother's reputation - even if she had to lie to do so.
+Isabelle was furious - and perhaps with good reason.  To her it must have seemed that the publishers of *Reliquaire* were ghoulishly capitalising on Rimbaud's death, and libeling a man who could no longer fight back.  Isabelle made it her mission to clear her brother's name.  However, even as she progressed this battle, it must have eventually become clear to her that many of the awful things people were saying about Arthur Rimbaud, were, unfortunately, true.  Nonetheless, Isabelle stayed steadfast in her goal.  She was going to defend her brother's reputation - even if she had to lie to do so:
 
-Therefore, by marrying one another, perhaps Berrichon and Isabelle both gained something:  Berrichon gained insider status within the poet's family, and Isabelle gained a man of letters who could fight her corner.
+>"As far as biography is concerned, I recognize only one theme: my own; I reject all others as false and offensive […] If, at some point in the future, I were to allow anything to be reprinted, it would be reviewed and revised according to what I consider to align with the matured intentions and ideas of my dear author."^[Isabelle Rimbaud, in a letter dated the third of January 1892 to Louis Pierquin]
+
+Perhaps, through marrying one another, both Berrichon and Isabelle gained something they wanted:  Berrichon gained insider status within the poet's family, and Isabelle gained a man of letters who could fight her corner.
 
 
 ## Berrichon's Feud with Izambard
@@ -364,12 +366,46 @@ knitr::include_graphics("Berrichon_bust.jpg")
 
 >Izambard went, saw the bust, and was clearly not pleased. This seems well established. What happened then? Always sincere, like Alceste, did he let his disappointment show through the courtesy of his words? Must we explain by this the persistent rancor—if not outright hatred—that Berrichon harbored toward a man who had shown him only kindness until then?
 
->Whatever the case, Paterne’s attacks—rather poorly named in this instance—soon became so sharp that Izambard had to defend himself. And he did not defend himself half-heartedly.
 
+Izambard himself had an alternative theory - that his old nemesis, Rimbaud's mother, believed him to be the secret author of the scandalous preface to *Reliquaire*.  Izambard admitted that he had spoken with Darzens about Rimbaud, and had shared some anecdotes in good faith, but he maintained that he had nothing to do with the writing of the final preface.  He believed that Mme Rimbaud had once again fallen victim to an *"offensive resurgence of her old black phobias"*^[Georges Izambard, *Rimbaud tel que je l'ai connu*], and that Berrichon had simply inherited this vendetta against him when he married into the Rimbaud clan.
 
+## Berrichon's Accusations 
 
+`r newthought("Berrichon's slurs")` probably felt particularly galling to Izambard because they were so contradictory.  They were an odd mix of Mme Rimbaud's old grievances, plus some new gripes all his own.
 
+Berrichon portrayed Izambard as a corrupting influence on Rimbaud, exposing him to anti-establishment political beliefs and sharing inappropriate books with him^[Mme Rimbaud had not forgotten the Victor Hugo debacle] - and simultaneously as a censorious Philistine, who lacked the poetic instinct needed to understand Rimbaud's evolving poetry.
 
+Berrichon particularly doubled-down on what he saw as Izambard's failure to understand and appreciate *Le Cœur supplicié*.  He weaponised Izambard's admission that perhaps his response to this early, experimental masterpiece had been a bit tactless, and turned it into a stick to beat Izambard with.
+
+Berrichon was the first to suggest that *Le Cœur supplicié* was an autobiographical poem, inspired by scenes of drunken debauchery that Rimbaud witnessed during his time in the Babylone barracks during the Paris Commune.^[whether Rimbaud was actually present at the Commune, and if so, where, when, and for how long is still a matter of debate.]  Although Delahaye^[*Delahaye témoin de Rimbaud*] recounts Rimbaud being amused by these antics, Berrichon twists the narrative into something much darker, claiming that this *"saddened him...as evidenced by Le Cœur volé, inspired by those scenes.”*
+
+This then gives Berrichon's accusation deeper emotional gravity; he implies that Izambard not only failed to understand the poem's genius, but also failed to recognise the real-life trauma behind it:
+
+>"Misanthropy was already encroaching upon his immense capacity for love; a disgust for the masses was assailing his marvellous heart. He could not pour out to his mother the flood of sadness that was drowning the skiff of his disordered soul: Madame Rimbaud, since the first runaway attempt, was more bitterly afflicted than her son.
+
+>He sought distraction; he wrote to M. Izambard, sending him The Stolen Heart, in a warm letter in which he announced new aims in poetic art and renounced his former attainments in that regard. No doubt he hoped thereby to interest the friend whom he did not yet judge to be 'like the others.' He must also have thought that his letter would serve as the starting point for an exchange of aesthetic ideas, and a trade of those delicate expressions of affection which he so urgently needed.
+
+>Alas! The schoolteacher could not comprehend The Stolen Heart, nor the singular and powerful literary ambitions of its author; he responded with a letter so clumsily mocking, and with a parody so vulgar, so lacking in understanding of The Stolen Heart, that Rimbaud, cruelly disappointed both in mind and heart, was seized by a mad fit — and he replied with hyperbolic violence, while at the same time giving the censor leave of his soul. M. Izambard, suddenly more schoolmasterly than ever, sent the diatribe back to the madman’s mother, along with remarks that, at the very least, suggested coercive measures.
+
+>Madame Rimbaud, whom this only tormented further, asked Arthur for an explanation. With a shrug, he gave her two blunt descriptors. It was over... No! For the ex-professor has still not, even in this year of 1911, forgiven that mother for the silent reserve with which she received his denunciation.
+
+>And Rimbaud’s moral sensibility, mired by friendship, sought after this episode to free itself and sail toward the tenderness of the fairer sex. But as he neared the harbour, his little vessel of love, flying a celestial flag, was dashed against the rock of prejudice.^[Paterne Berrichon, *Jean-Arthur Rimbaud Le poète*]
+
+This final, fabricated detail about Izambard sending Mme Rimbaud an angry letter appeared to irritate Izambard more than anything else - perhaps because this was an outright lie, while everything else could be charitably explained away as a failure of interpretation.
+
+Also, beneath all this florid invention and melodramatic prose, Berrichon was circling something even uglier. Though he never accused Izambard of any explicit wrongdoing, his language veered close to it, describing Rimbaud as morally “abducted,” and casting Izambard as a “corrupter.” These terms were not chosen lightly. Whatever Berrichon’s intent, the effect was to raise a cloud of suspicion around the nature of Izambard’s influence on the young poet. It’s to Izambard’s credit that, rather than becoming flustered or evasive, he answered the slur directly, but without allowing himself to be drawn into Berrichon’s narrative:
+
+>“This mother, O ill-humored writer…, etc. She now saw in you, the corrupter. If her indignation as a nervous woman, before the moral abduction of her child…” **Corrupter, moral abduction…** I would be very curious, truly very curious, to see the author of Chapter XII give these insinuations a more precise shape. Moral abduction!... Neither moral nor otherwise, sir. 
+
+## Izambard's Rediscovers the Letter of the Seer
+
+`r newthought("Izambard's fussy but forthright")` pedantry, the trait that had probably irked Rimbaud at times during their friendship, also, paradoxically, turned out to be the very quality that helped Izambard rebut Berrichon's falsehoods - and also helped him to counter the sanitised narrative that Berrichon and Isabelle were attempting to build up around Rimbaud: 
+
+>"Whatever the case, Paterne’s attacks—rather poorly named in this instance—soon became so sharp that Izambard had to defend himself. And he did not defend himself half-heartedly. You will read further on his stinging rebuttals, in which he sets the record straight and deflates wild inventions simply by recounting the facts plainly. In truth, his opponent did him a service by forcing him to dig into his archives, from which Izambard in 1910 retrieved letters from Rimbaud and his mother that had lain dormant for forty years."^[H. Bouillan de Lacoste and Pierre Izambard, in their preface to *Rimbaud tel que je l'ai connu*]
+
+In 1910, Izambard finally found the first Letter of the Seer again.  Reading this letter more than forty years after it was originally sent allowed him to reassess the end of his friendship with Rimbaud.  In addition to his rediscovery of this letter, Izambard also found one further letter from Rimbaud, dated July 1871. While it lacked the intensity of their earlier correspondence, it suggested that their relationship had not ended in total bitterness - although the warmth had certainly cooled.
+
+## The Final Word
 
 ## To Be Continued in Part 3
 
