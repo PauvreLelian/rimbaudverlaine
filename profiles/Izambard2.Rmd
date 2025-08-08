@@ -326,10 +326,50 @@ Izambard did admit that perhaps he had been too quick to dismiss *Le Cœur suppl
 
 ## Paterne Berrichon
 
-Paterne Berrichon was the pseudonym of Pierre-Eugène Dufour^[Izambard later pointed out the irony in Berrichon's name change, quoting this passage from *Une Saison en Enfer*:
-*“You see that elegant young man, entering the beautiful and quiet house: he’s called Duval, Dufour, Armand, Maurice, who knows?  A woman devoted herself to loving that wretched fool: she died, she’s surely a saint in heaven now...”*]
+`r newthought("Paterne Berrichon was")` the pseudonym of Pierre-Eugène Dufour.  He was an early fan of Rimbaud's and one of his first biographers.  You could perhaps even say that he was a super-fan, since he went to quite extreme lengths to try and crack the secrets of Rimbaud's life and poetry.  It is ironic then, that he ultimately ended up perpetuating some of the biggest and most enduring myths and distortions about the poet - some of which endure even to this day.
 
-He was an early fan of Rimbaud's and one of his first biographers.  You could perhaps even say that he was a super-fan, since he went to quite extreme lengths to try and crack the secrets of Rimbaud's life and poetry.  It is ironic then, that he ultimately ended up perpetuating some of the biggest and most enduring myths and distortions about the poet - some of which endure even to this day.
+For example, if you have ever heard that:
+
+* *Une Saison en Enfer* was the last thing Rimbaud ever wrote
+
+* That Rimbaud burned most of the copies of *Une Saison en Enfer* after publication
+
+* That *Le Cœur supplicié/du pitre/volé* is an account of Rimbaud's gang-rape by Communard soldiers^[see [this post](https://www.reddit.com/r/RimbaudVerlaine/comments/1mec2az/rimbauds_three_hearts_a_comparison/) for further discussion on this theory]
+
+Then it is likely that the source you heard this from was influenced by Berrichon, either directly or indirectly.  Berrichon has had an inordinate and outsized impact on Rimbaud's legacy, and this is because...
+
+## Berrichon became Rimbaud's brother-in-law
+
+As part of his investigations into Rimbaud's life, Berrichon (or Dufour)^[Izambard later pointed out the irony in Berrichon's real name, and the fact that he ended up marrying Rimbaud's sister, quoting this passage from *Une Saison en Enfer*:
+*“You see that elegant young man, entering the beautiful and quiet house: he’s called Duval, Dufour, Armand, Maurice, who knows?  A woman devoted herself to loving that wretched fool: she died, she’s surely a saint in heaven now...”*] reached out to Rimbaud's younger sister Isabelle for information.  The two started exchanging letters back and forth on the subject of her dead brother, and, during the course of this correspondence, Berrichon asked Isabelle to marry him.
+
+Isablle Rimbaud is a complicated character.^[see [this post](https://www.reddit.com/r/ArthurRimbaud/comments/1lxy4jn/portrait_isabelle_rimbaud/) for more on Isabelle]  she and her sister Vitalie were two of the only people for whom Rimbaud seems to have held a simple and lifelong affection, and, in her turn, it is clear from Isabelle's writing and actions that she loved her brother.
+
+However, Isabelle also possessed an implacably stubborn will^[she seems to have had this in common with her mother Vitalie, and her brother Arthur] and an extreme rigidity of thinking.  When she had been caring for her dying brother in hospital she hadn't known that he had ever been a writer.  However, within days of his death, a collection of his writing named *Reliquaire, Poésies* was released.  This was simply unfortunate timing rather than planned to coincide with his death, but to make matters worse the first release of *Reliquaire* included a preface filled with shocking details about her brother's life.^[copies of this first release of *Reliquaire* were later seized by police and suppressed.  This was after Darzens, a journalist and investigator, complained about the preface being falsely attributed to him.  Darzens claimed that he had not written the preface, but that it had plagiarised and paraphrased his notes]  
+
+Isabelle and her mother were furious - and perhaps with good reason.  To them it might have seemed that the publishers of *Reliquaire* were ghoulishly capitalising on Rimbaud's death, and libeling a man who could no longer fight back.  Isabelle made it her mission to clear her brother's name.  However, as she progressed with this, it must have eventually become clear even to her that many of the awful things people were saying about Arthur Rimbaud, were, unfortunately, true.  Nonetheless, Isabelle stayed steadfast in her goal.  She was going to defend her brother's reputation - even if she had to lie to do so.
+
+Therefore, by marrying one another, perhaps Berrichon and Isabelle both gained something:  Berrichon gained insider status within the poet's family, and Isabelle gained a man of letters who could fight her corner.
+
+
+## Berrichon's Feud with Izambard
+
+`r newthought("There are conflicting stories")` around why Berrichon first began attacking Izambard.  H. Bouillan de Lacoste and Pierre Izambard, in their preface to *Rimbaud tel que je l'ai connu*, offer the following explanation:
+
+```{r bust_one, echo=FALSE, fig.margin=TRUE, fig.cap="Bust of Arthur Rimbaud, by Paterne Berrichon", out.width="100%"}
+knitr::include_graphics("Berrichon_bust.jpg")
+```
+
+>Some have tried to explain this falling out as being due to political differences, the two men belonging to opposing camps. Izambard alludes to this in his article titled *Arthur Rimbaud rhétoricien.* Let us admit that this factor may have influenced their mutual feelings; it was not, in any case, the only one. Another cause, we believe, worsened everything: the matter of the bust of Rimbaud sculpted by Berrichon after the poet’s death. That bust proved troublesome for its creator: how does one sculpt a true likeness of someone one has never met? Berrichon did his best, drawing inspiration from Isabelle’s features and using old photographs as references... Once the bust was complete, unable to judge the resemblance himself and preferring not to rely solely on the family’s opinion, he invited Izambard to come view the work in his apartment in Auteuil.
+
+>Izambard went, saw the bust, and was clearly not pleased. This seems well established. What happened then? Always sincere, like Alceste, did he let his disappointment show through the courtesy of his words? Must we explain by this the persistent rancor—if not outright hatred—that Berrichon harbored toward a man who had shown him only kindness until then?
+
+>Whatever the case, Paterne’s attacks—rather poorly named in this instance—soon became so sharp that Izambard had to defend himself. And he did not defend himself half-heartedly.
+
+
+
+
+
 
 ## To Be Continued in Part 3
 
