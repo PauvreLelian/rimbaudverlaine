@@ -338,7 +338,7 @@ For example, if you have ever heard that:
 
 Then it is likely that the source you heard this from was influenced by Berrichon, either directly or indirectly.  Berrichon has had an inordinate and outsized impact on Rimbaud's legacy, and this is because...
 
-## Berrichon became Rimbaud's brother-in-law
+## Berrichon becomes Rimbaud's brother-in-law
 
 As part of his investigations into Rimbaud's life, Berrichon (or Dufour)^[Izambard later pointed out the irony in Berrichon's real name, and the fact that he ended up marrying Rimbaud's sister, quoting this passage from *Une Saison en Enfer*:
 *“You see that elegant young man, entering the beautiful and quiet house: he’s called Duval, Dufour, Armand, Maurice, who knows?  A woman devoted herself to loving that wretched fool: she died, she’s surely a saint in heaven now...”*] reached out to Rimbaud's younger sister Isabelle for information.  The two started exchanging letters back and forth on the subject of her dead brother, and, during the course of this correspondence, Berrichon asked Isabelle to marry him.
@@ -369,7 +369,12 @@ knitr::include_graphics("Berrichon_bust.jpg")
 >Izambard went, saw the bust, and was clearly not pleased. This seems well established. What happened then? Always sincere, like Alceste, did he let his disappointment show through the courtesy of his words? Must we explain by this the persistent rancor—if not outright hatred—that Berrichon harbored toward a man who had shown him only kindness until then?
 
 
-Izambard himself had an alternative theory - that his old nemesis, Rimbaud's mother, believed him to be the secret author of the *Reliquaire* preface.  Izambard admitted quite transparently that he had spoken with Darzens about Rimbaud, and had shared some anecdotes in good faith, but he maintained that he had nothing to do with the writing of the final preface.  He believed that Mme Rimbaud had once again fallen victim to an *"offensive resurgence of her old black phobias"*^[Georges Izambard, *Rimbaud tel que je l'ai connu*], and that Berrichon had simply inherited this vendetta against him when he married into the Rimbaud clan.
+Izambard himself had an alternative theory - that his old nemesis, Rimbaud's mother, believed him to be the secret author of the *Reliquaire* preface.  Izambard admitted quite transparently that he had spoken with Darzens about Rimbaud, and had shared some anecdotes in good faith, but he maintained that he had nothing to do with the writing of the final preface:
+
+>"I never read this preface, which was destroyed. I had no part in it and cannot answer for what I never knew."^[Georges Izambard, *Rimbaud tel que je l'ai connu*],
+
+
+He believed that Mme Rimbaud had once again fallen victim to an *"offensive resurgence of her old black phobias"* and that Berrichon had simply inherited this vendetta against him when he married into the Rimbaud clan.
 
 ## Berrichon's Accusations 
 
