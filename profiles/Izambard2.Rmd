@@ -24,7 +24,7 @@ Part One covers Izambard’s arrival in Charleville, his influence on Rimbaud’
 
 Part Two covers what happened to Rimbaud in the months following Izambard’s departure, the correspondence between them during that time, the bombshell “seer” letter that Rimbaud sent to Izambard, and the end of their friendship.
 
-Part Three will address how Izambard contributed to Rimbaud’s literary legacy and how he helped to shape the image of Rimbaud that emerged in public consciousness – and how Izambard eventually emerged as probably one of the most grounded, balanced and honest of Rimbaud’s early biographers.  Throughout this post I’ll be quoting from *Rimbaud tel que je l'ai connu*^["The Rimbaud that I Knew", a 1947 collection of Izambard's writings about Rimbaud], as well as *Delahaye témoin de Rimbaud*^[a 1974 collection of Ernest Delahaye's writings, with commentary by Frédéric Eigeldinger et André Gendre] 
+Part Three will address how Izambard contributed to Rimbaud’s literary legacy and how he helped to shape the image of Rimbaud that emerged in public consciousness – and how Izambard eventually emerged as probably one of the most grounded, balanced and honest of Rimbaud’s early biographers.  Throughout this article I’ll be quoting from *Rimbaud tel que je l'ai connu*^["The Rimbaud that I Knew", a 1947 collection of Izambard's writings about Rimbaud], as well as *Delahaye témoin de Rimbaud*^[a 1974 collection of Ernest Delahaye's writings, with commentary by Frédéric Eigeldinger et André Gendre] 
 
 Although most of the factual information contained in this post can be found in the English language biographies of Rimbaud by people like Graham Robb, Edmund White and Charles Nicholl, I find that most of the biographers tend to take the facts from Izambard’s book while neglecting the emotional aspects of Izambard’s perspective.  This is a pity, as Izambard has a sharp, decisive and humorous voice of his own, and he writes about his former student with affection but admirable clear-headedness – despite coming in for a lot of mudslinging from Rimbaud’s family, as we shall see in part 3.
 
@@ -335,11 +335,13 @@ Izambard did also admit that perhaps he had been too quick to dismiss *Le Cœur 
 
 For example, if you have ever heard that:
 
-* *Une Saison en Enfer* was the last thing Rimbaud ever wrote
+* *Une Saison en Enfer* was the last thing Rimbaud ever wrote, and served as a farewell both to literature and his sinful past
 
 * That Rimbaud burned most of the copies of *Une Saison en Enfer* after publication
 
 * That *Le Cœur supplicié/du pitre/volé* is an account of Rimbaud's gang-rape by Communard soldiers^[see [this post](https://www.reddit.com/r/RimbaudVerlaine/comments/1mec2az/rimbauds_three_hearts_a_comparison/) for further discussion on this theory]
+
+* That Rimbaud experienced a death-bed conversion, partaking in the sacraments of reconciliation and communion before he died
 
 Then it is likely that the source you heard this from was influenced by Berrichon, either directly or indirectly.  Berrichon has had an inordinate and outsized impact on Rimbaud's legacy, and this is because...
 
@@ -362,6 +364,8 @@ Isabelle was furious - and perhaps with good reason.  To her it must have seemed
 
 If you consider how important controlling the narrative appeared to be to Isabelle, her decision to accept a proposal from a man she had never actually met in real life seems less strange.  Perhaps, through marrying one another, both Berrichon and Isabelle gained something they wanted:  Berrichon gained insider status within the poet's family, and Isabelle gained a man of letters who could fight her corner.
 
+Together, Isabelle and Berrichon perpetuated many distortion about Rimbaud's life and work, most of which were motivated by Isabelle's desire to disavow the aspects of her brother which confused or disturbed her - in particular his politics, sexuality, and anticlericalism.  Izambard served as a convenient scapegoat who could be blamed for corrupting the young Arthur.
+
 
 ## Berrichon's Feud with Izambard
 
@@ -380,7 +384,7 @@ knitr::include_graphics("Berrichon_bust.jpg")
 
 As amusingly petty as the idea of them forming a deadly enmity over a bad sculpture is, Izambard himself had an alternative theory; perhaps his old nemesis, Rimbaud's mother, believed him to be the secret author of the *Reliquaire* preface.  Izambard admitted quite transparently that he had spoken with Darzens about Rimbaud, and had shared some anecdotes in good faith, but he maintained that he had nothing to do with the writing of the final preface:
 
->"I never read this preface, which was destroyed. I had no part in it and cannot answer for what I never knew."^[Georges Izambard, *Rimbaud tel que je l'ai connu*],
+>"I never read this preface, which was destroyed. I had no part in it and cannot answer for what I never knew."^[Georges Izambard, *Rimbaud tel que je l'ai connu*]
 
 
 He believed that Mme Rimbaud had once again fallen victim to an *"offensive resurgence of her old black phobias"* and that Berrichon had simply inherited this vendetta against him when he married into the Rimbaud clan.
@@ -389,9 +393,11 @@ He believed that Mme Rimbaud had once again fallen victim to an *"offensive resu
 
 `r newthought("Berrichon's slurs")` probably felt particularly galling to Izambard because they were so contradictory.  They were an odd mix of Mme Rimbaud's old grievances, plus some new gripes all his own.
 
-Berrichon somehow contrived to portray Izambard as both a corrupting influence on Rimbaud, exposing him to anti-establishment political beliefs and sharing inappropriate books with him^[Mme Rimbaud had not forgotten the [Victor Hugo](#hugo) debacle] - and simultaneously as a censorious Philistine, who lacked the poetic instinct needed to understand Rimbaud's evolving poetry.
+Berrichon somehow contrived to portray Izambard as both a corrupting influence on Rimbaud, exposing him to anti-establishment political beliefs and sharing inappropriate books with him^[Mme Rimbaud had not forgotten the [Victor Hugo](#hugo) debacle] - and simultaneously as a censorious Philistine, who lacked the poetic instinct needed to understand Rimbaud's evolving poetry.  Berrichon describes Izambard's influence over Rimbaud's developing political sensibilities as follows:
 
-Berrichon even insinuated that Izambard may have encouraged his young student to form an attachment to him that was inappropriately intense - an [unguarded remark](#darzens-abduction) that Izambard made to Darzens during his interview suggests that Izambard had some idea of Mme. Rimbaud's darker suspicions, although these probably reflected more on Mme Rimbaud's growing awareness of and unease with her son's sexuality than any impropriety on Izambard's part.  
+>"For the greater part of that school year, Mr. Izambard and Rimbaud, so to speak, were inseparable. Their relationship, the rhetoric teacher confided, was above all that of comrade to comrade; and one must, in view of the facts, conclude that if the young pedagogue did not, with his own hands, overthrow the Empire, he nonetheless fanned the flames of revolution in the awakening soul of his pupil—through the lending of books and newspapers, and through their conversations. Justly marveling at Arthur’s precocity of mind and fever for novelty, he encouraged him—certainly seeing no harm in it—along a path contrary to that in which Madame Rimbaud and the school curriculum had set his education; and the result was that our young rhetorician, while translating for pleasure Juvenal, Tibullus, Martial, Propertius, and Petronius, also wanted to know Villon, Rabelais, the poets of the Pléiade, the Romantics, and the Parnassians, and soon came to know as well the philosophers of the eighteenth century, the Republican historians of the French Revolution, and the socialists, from Saint-Simon to Proudhon."^[Paterne Berrichon *Jean-Arthur Rimbaud Le poète*]
+
+Berrichon may even have been trying to insinuate that Izambard encouraged his young student into an attachment that was inappropriately intense - an [unguarded remark](#darzens-abduction) that Izambard made to Darzens during his interview suggests that Izambard may have had some idea even at the time of their friendship that Mme. Rimbaud's harboured these darker suspicions, although these probably reflected more about Mme Rimbaud's growing awareness of and unease with her son's sexuality than any impropriety on Izambard's part.  
 
 
 Here is a quote in an early draft of Berrichon's book, *Jean-Arthur Rimbaud Le poète*, in which Berrichon addresses Izambard directly:
@@ -404,15 +410,15 @@ Izambard’s retort was swift and assured:
 
 Izambard's indignant challenge to Berrichon to either clarify his insinuation or retract it appears to have worked - a later revision of *Jean-Arthur Rimbaud Le poète* modified this language somewhat, although, judging from Izambard's margin notes, not entirely to his satisfaction:
 
->"For this mother — O ill-humored writer — had pondered the cause of her son’s change in character. Now she saw in you the reckless advisor."^[In a margin note, Izambard wrote:  "He previously called me **“the corrupter.”**"]
+>"For this mother — O ill-humored writer — had pondered the cause of her son’s change in character. Now she saw in you the **reckless advisor**."^[In a margin note, Izambard wrote:  "He previously called me **“the corrupter.”**"]
 
->If her outrage, as a nervous woman, at her child’s moral upheaval...^[In a margin note, Izambard wrote:  "He had written **“moral abduction.”** He said he’d abandon these sordid insinuations — and now he evades."]
+>If her outrage, as a nervous woman, at her child’s **moral upheaval**...^[In a margin note, Izambard wrote:  "He had written **“moral abduction.”** He said he’d abandon these sordid insinuations — and now he evades."]
 
 Berrichon also doubled-down on what he saw as Izambard's failure to understand and appreciate *Le Cœur supplicié*.  He weaponised Izambard's admission that perhaps his response to this early, experimental masterpiece had been a bit tactless, and turned it into a stick to beat Izambard with.
 
 Berrichon was the first to suggest that *Le Cœur supplicié* was an autobiographical poem, inspired by something that Rimbaud had either experienced or witnessed during his time in the Babylone barracks during the Paris Commune.^[whether Rimbaud was actually present at the Commune, and if so, where, when, and for how long is still a matter of debate.]  Although Delahaye does recount that Rimbaud saw drunkenness and disorder in the barracks, he describes this as harmless antics which Rimbaud was amused by^[*Delahaye témoin de Rimbaud*].  Berrichon, however, twists the narrative into something much darker, claiming that Rimbaud encountered scenes of violence and debauchery, which *"saddened him...as evidenced by Le Cœur volé, inspired by those scenes.”*
 
-This then gives Berrichon's accusation a deeper emotional gravity; he implies that Izambard not only failed to understand the poem's genius, but also failed to recognise the real-life trauma behind it:
+This then gives Berrichon's accusation a deeper emotional gravity; he implies that Izambard not only failed to understand the poem's genius, but also failed to recognise the real-life trauma behind it.  Here is Berrichon's much embellished account of how Rimbaud and Izambard's friendship ended:
 
 >"Misanthropy was already encroaching upon his immense capacity for love; a disgust for the masses was assailing his marvellous heart. He could not pour out to his mother the flood of sadness that was drowning the skiff of his disordered soul: Madame Rimbaud, since the first runaway attempt, was more bitterly afflicted than her son.
 
@@ -445,6 +451,19 @@ In addition to his rediscovery of this letter, Izambard also found one further l
 
 ## The Final Word
 
+In a strange way, Berrichon's attacks on Izambard actually helped Rimbaud's literary legacy.  By making attacking him so personally and so relentlesly, he riled Izambard into retaliation - and, by retaliating, Izambard not only countered Berrichon's lies about himself, but many of his other distortions of Rimbaud's life and work.  In the wonderful *Rimbaud tel que je l'ai connu* Izambard uses his incisive wit to target Berrichon's often fanciful interpretations of Rimbaud's poems, provides letters and biographical details that help to pin down the chronology of Rimbaud's life, and even exposes potential "doctoring" by Isabelle and Berrichon of Rimbaud's letters.
+
+
+```{r grave, echo=FALSE, fig.margin=TRUE, fig.cap="Georges Izambard's headstone", out.width="100%"}
+knitr::include_graphics("George Izambard Grave.jpg")
+```
+
+Izambard died on the February 1931, aged 82 years.
+
+
+I think a fitting end to this article are these final words from Izambard:
+
+>"peace to his memory: Rimbaud’s ashes do not need to be adored—it is enough that they be respected.”
 
 
 
