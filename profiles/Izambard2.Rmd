@@ -81,7 +81,7 @@ Then, at the end of the school year in August 1870, Izambard left Charleville fo
 This is a translation of the letter, but there is something very significant in the original French text which doesn’t really come through in the English^[please read [this post](https://www.reddit.com/r/RimbaudVerlaine/comments/1m1hlf2/verlaine_dans_la_grotte_1869/) for a thorough explanation of what the “terrible tigress” might actually mean.]
 
 
-It is striking that Rimbaud homed in on and underscored Verlaine’s hidden, homoerotic pun, and was eager to test Izambard with it, to see if he was able to pick up on its underlying meaning too.  While Izambard undoubtedly did pick up on the line’s metric oddity, it’s unclear if he ever fully grasped what Rimbaud was pointing out to him.  It’s also unclear if Izambard picked up on the meaning of Rimbaud’s cryptic post-script, or its ominously trailing ellipses...
+It is striking that Rimbaud homed in on and underscored Verlaine’s hidden, homoerotic pun, and was eager to test Izambard with it, to see if he was able to pick up on its underlying meaning too.  While Izambard undoubtedly did pick up on the line’s metric oddity, it’s [unclear if he ever fully grasped what Rimbaud was pointing out to him](#epouvantable).  It’s also unclear if Izambard picked up on the meaning of Rimbaud’s cryptic post-script, or its ominously trailing ellipses...
 
 ## Rimbaud in jail and his first stay at Douai
 
@@ -443,9 +443,37 @@ But the allegation that Izambard would have written to Mme Rimbaud to complain a
 
 In 1910, Izambard finally found the first Letter of the Seer again.  Reading this letter more than forty years after it was originally sent allowed him to reassess the end of his friendship with Rimbaud.  
 
-## One Final Letter
+....
 
-In addition to his rediscovery of this letter, Izambard also found one further letter from Rimbaud, dated 12th July 1871. While it lacked the intensity of their earlier correspondence, it suggested that their relationship had not ended in total bitterness, although the warmth had certainly cooled.
+In addition to his rediscovery of the Letter of the Seer, Izambard also found [one further letter from Rimbaud](#final-letter), dated 12th July 1871. While it lacked the intensity of their earlier correspondence, it suggested that their relationship had not ended in total bitterness, although the warmth had certainly cooled.
+
+
+## The Final Word
+
+In a strange way, Berrichon's attacks on Izambard actually helped Rimbaud's literary legacy.  By making attacking him so personally and so relentlesly, he riled Izambard into retaliation - and, by retaliating, Izambard not only countered Berrichon's lies about himself, but many of his other distortions of Rimbaud's life and work.  In the wonderful *Rimbaud tel que je l'ai connu* Izambard uses his incisive wit to target Berrichon's often fanciful interpretations of Rimbaud's poems, provides letters and biographical details that help to pin down the chronology of Rimbaud's life, and even exposes potential "doctoring" by Isabelle and Berrichon of Rimbaud's letters.
+
+
+>"A strange twist of fate: the monument erected in 1901 to the memory of Rimbaud stands, in bronze and granite^[In a margin note, Izambard wrote:  *"not resembling him at all; a waste of bronze and granite."*], on that very Place de la Gare where, more than ever, the people of Charleville go on Thursdays to listen to the military band; and it was the military band which, at the monument’s inauguration, performed an arrangement of Émile Ratez’s symphony inspired by Le Bateau ivre."
+
+
+
+>"Rimbaud, dead, was once again being confined, as Arthur the child once had been"
+
+
+```{r grave, echo=FALSE, fig.margin=TRUE, fig.cap="Georges Izambard's headstone", out.width="100%"}
+knitr::include_graphics("George Izambard Grave.jpg")
+```
+
+Izambard died on the February 1931, aged 82 years.
+
+
+I think a fitting end to this article are these final words from Izambard:
+
+>"peace to his memory: Rimbaud’s ashes do not need to be adored—it is enough that they be respected.”
+
+# APPENDIX
+
+## Rimbaud's Final Letter to Izambard<a id="final-letter"></a>
 
 >"Charleville, July 12, 1871
 [Dear Sir,
@@ -466,9 +494,9 @@ If you have any improper printed matter [in a professor’s library and happen t
 >A. RIMBAUD.
 >P.S. — I saw in a letter of yours to Mr. Deverrière..."
 
-## Izambard visits Verlaine
+## An Account of Izambard's Visit to Verlaine 
 
->Poetic Licenses of Verlaine
+>Poetic Licenses of Verlaine <a id="epouvantable"></a>
 
 >My first encounter with Verlaine goes back to the first edition of his Poètes maudits (1884). In it, he revealed to me a Rimbaud I did not know. I knew another one—unknown to him—from whom I kept a small bundle of manuscripts: poems and intimate letters from 1870. I informed the poet of this. His response arrived at once, urgent and warm. Eager to see my “loot,” but bedridden, he sent me his address on Rue de la Roquette¹.
 I was received and shown in by his mother who, clearly, was alarmed by any unfamiliar face, any unexpected visit—seeing in them a potential threat to the moral calm of her "invalid." But he quickly reassured her and even brought her into the conversation.
@@ -521,27 +549,7 @@ The interesting reflections he later shared during our other conversations, prov
 
 >GEORGES IZAMBARD
 >Honorary President of the "Friends of Verlaine"
->(Belles-Lettres, January 1921)</pre>
-
-
-
-
-
-## The Final Word
-
-In a strange way, Berrichon's attacks on Izambard actually helped Rimbaud's literary legacy.  By making attacking him so personally and so relentlesly, he riled Izambard into retaliation - and, by retaliating, Izambard not only countered Berrichon's lies about himself, but many of his other distortions of Rimbaud's life and work.  In the wonderful *Rimbaud tel que je l'ai connu* Izambard uses his incisive wit to target Berrichon's often fanciful interpretations of Rimbaud's poems, provides letters and biographical details that help to pin down the chronology of Rimbaud's life, and even exposes potential "doctoring" by Isabelle and Berrichon of Rimbaud's letters.
-
-
-```{r grave, echo=FALSE, fig.margin=TRUE, fig.cap="Georges Izambard's headstone", out.width="100%"}
-knitr::include_graphics("George Izambard Grave.jpg")
-```
-
-Izambard died on the February 1931, aged 82 years.
-
-
-I think a fitting end to this article are these final words from Izambard:
-
->"peace to his memory: Rimbaud’s ashes do not need to be adored—it is enough that they be respected.”
+>(Belles-Lettres, January 1921)
 
 
 
